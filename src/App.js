@@ -8,7 +8,7 @@ const App = () => {
   const [cities, setCities] = useState([]);
   const getWeather = (city) => {
     if (city === "") return;
-    const API = process.env.REACT_APP_API;
+    const API = "ef6c4d95969494aa0775b846febd5ee7";
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API}&units=metric`;
     // загружаем библиотеку npm i axios
     axios
