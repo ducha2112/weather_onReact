@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/weather_onReact/static/css/main.eaead728.css",
+    "main.js": "/github.io/weather_onReact/static/js/main.1ca49652.js",
+    "static/media/sun.svg": "/github.io/weather_onReact/static/media/sun.7e4aca7b837d4b794aedb8e2813b9fb6.svg",
+    "static/media/only-sun.svg": "/github.io/weather_onReact/static/media/only-sun.33fb29f67b3d55dc864a9f793c9da66f.svg",
+    "static/media/clouds.svg": "/github.io/weather_onReact/static/media/clouds.3212000293d033bc59f6629de236f802.svg",
+    "index.html": "/github.io/weather_onReact/index.html",
+    "main.eaead728.css.map": "/github.io/weather_onReact/static/css/main.eaead728.css.map",
+    "main.1ca49652.js.map": "/github.io/weather_onReact/static/js/main.1ca49652.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaead728.css",
+    "static/js/main.1ca49652.js"
+  ]
+}
